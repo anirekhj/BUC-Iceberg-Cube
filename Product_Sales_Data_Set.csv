@@ -1,0 +1,129 @@
+Item,Location,Year,Supplier,Sales_Units
+Computer,Toronto,2017,Samsung,5
+Computer,Toronto,2017,Sony,1
+Computer,Toronto,2017,HP,2
+Computer,Toronto,2017,Dell,4
+Computer,Toronto,2018,Samsung,3
+Computer,Toronto,2018,Sony,1
+Computer,Toronto,2018,HP,3
+Computer,Toronto,2018,Dell,2
+Computer,Vancouver,2017,Samsung,2
+Computer,Vancouver,2017,Sony,5
+Computer,Vancouver,2017,HP,1
+Computer,Vancouver,2017,Dell,2
+Computer,Vancouver,2018,Samsung,2
+Computer,Vancouver,2018,Sony,5
+Computer,Vancouver,2018,HP,1
+Computer,Vancouver,2018,Dell,2
+Computer,New York,2017,Samsung,3
+Computer,New York,2017,Sony,2
+Computer,New York,2017,HP,5
+Computer,New York,2017,Dell,4
+Computer,New York,2018,Samsung,3
+Computer,New York,2018,Sony,5
+Computer,New York,2018,HP,5
+Computer,New York,2018,Dell,2
+Computer,Chicago,2017,Samsung,1
+Computer,Chicago,2017,Sony,5
+Computer,Chicago,2017,HP,2
+Computer,Chicago,2017,Dell,5
+Computer,Chicago,2018,Samsung,4
+Computer,Chicago,2018,Sony,4
+Computer,Chicago,2018,HP,5
+Computer,Chicago,2018,Dell,1
+Camera,Toronto,2017,Samsung,1
+Camera,Toronto,2017,Sony,3
+Camera,Toronto,2017,HP,5
+Camera,Toronto,2017,Dell,4
+Camera,Toronto,2018,Samsung,1
+Camera,Toronto,2018,Sony,4
+Camera,Toronto,2018,HP,4
+Camera,Toronto,2018,Dell,3
+Camera,Vancouver,2017,Samsung,4
+Camera,Vancouver,2017,Sony,3
+Camera,Vancouver,2017,HP,3
+Camera,Vancouver,2017,Dell,1
+Camera,Vancouver,2018,Samsung,5
+Camera,Vancouver,2018,Sony,1
+Camera,Vancouver,2018,HP,1
+Camera,Vancouver,2018,Dell,4
+Camera,New York,2017,Samsung,3
+Camera,New York,2017,Sony,2
+Camera,New York,2017,HP,3
+Camera,New York,2017,Dell,4
+Camera,New York,2018,Samsung,2
+Camera,New York,2018,Sony,2
+Camera,New York,2018,HP,3
+Camera,New York,2018,Dell,2
+Camera,Chicago,2017,Samsung,4
+Camera,Chicago,2017,Sony,2
+Camera,Chicago,2017,HP,5
+Camera,Chicago,2017,Dell,3
+Camera,Chicago,2018,Samsung,2
+Camera,Chicago,2018,Sony,3
+Camera,Chicago,2018,HP,1
+Camera,Chicago,2018,Dell,5
+Phone,Toronto,2017,Samsung,1
+Phone,Toronto,2017,Sony,2
+Phone,Toronto,2017,HP,5
+Phone,Toronto,2017,Dell,5
+Phone,Toronto,2018,Samsung,2
+Phone,Toronto,2018,Sony,4
+Phone,Toronto,2018,HP,3
+Phone,Toronto,2018,Dell,3
+Phone,Vancouver,2017,Samsung,2
+Phone,Vancouver,2017,Sony,3
+Phone,Vancouver,2017,HP,3
+Phone,Vancouver,2017,Dell,4
+Phone,Vancouver,2018,Samsung,1
+Phone,Vancouver,2018,Sony,5
+Phone,Vancouver,2018,HP,2
+Phone,Vancouver,2018,Dell,2
+Phone,New York,2017,Samsung,3
+Phone,New York,2017,Sony,3
+Phone,New York,2017,HP,2
+Phone,New York,2017,Dell,1
+Phone,New York,2018,Samsung,5
+Phone,New York,2018,Sony,2
+Phone,New York,2018,HP,5
+Phone,New York,2018,Dell,1
+Phone,Chicago,2017,Samsung,2
+Phone,Chicago,2017,Sony,3
+Phone,Chicago,2017,HP,2
+Phone,Chicago,2017,Dell,5
+Phone,Chicago,2018,Samsung,5
+Phone,Chicago,2018,Sony,4
+Phone,Chicago,2018,HP,2
+Phone,Chicago,2018,Dell,4
+Printer,Toronto,2017,Samsung,3
+Printer,Toronto,2017,Sony,4
+Printer,Toronto,2017,HP,2
+Printer,Toronto,2017,Dell,4
+Printer,Toronto,2018,Samsung,3
+Printer,Toronto,2018,Sony,3
+Printer,Toronto,2018,HP,1
+Printer,Toronto,2018,Dell,3
+Printer,Vancouver,2017,Samsung,1
+Printer,Vancouver,2017,Sony,4
+Printer,Vancouver,2017,HP,4
+Printer,Vancouver,2017,Dell,3
+Printer,Vancouver,2018,Samsung,5
+Printer,Vancouver,2018,Sony,1
+Printer,Vancouver,2018,HP,1
+Printer,Vancouver,2018,Dell,4
+Printer,New York,2017,Samsung,1
+Printer,New York,2017,Sony,5
+Printer,New York,2017,HP,2
+Printer,New York,2017,Dell,3
+Printer,New York,2018,Samsung,1
+Printer,New York,2018,Sony,5
+Printer,New York,2018,HP,2
+Printer,New York,2018,Dell,5
+Printer,Chicago,2017,Samsung,3
+Printer,Chicago,2017,Sony,2
+Printer,Chicago,2017,HP,1
+Printer,Chicago,2017,Dell,5
+Printer,Chicago,2018,Samsung,3
+Printer,Chicago,2018,Sony,5
+Printer,Chicago,2018,HP,2
+Printer,Chicago,2018,Dell,1
