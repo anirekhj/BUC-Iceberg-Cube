@@ -1,0 +1,52 @@
+Computer	97
+				Toronto	21
+								2017	12
+								2018	*
+				Vancouver	20
+								2017	*
+								2018	*
+				New York	29
+								2017	14
+								2018	15
+				Chicago	27
+								2017	13
+								2018	14
+Camera	93
+				Toronto	25
+								2017	13
+								2018	12
+				Vancouver	22
+								2017	11
+								2018	11
+				New York	21
+								2017	12
+								2018	*
+				Chicago	25
+								2017	14
+								2018	11
+Phone	96
+				Toronto	25
+								2017	13
+								2018	12
+				Vancouver	22
+								2017	12
+								2018	*
+				New York	22
+								2017	*
+								2018	13
+				Chicago	27
+								2017	12
+								2018	15
+Printer	92
+				Toronto	23
+								2017	13
+								2018	*
+				Vancouver	23
+								2017	12
+								2018	11
+				New York	24
+								2017	11
+								2018	13
+				Chicago	22
+								2017	11
+								2018	11
