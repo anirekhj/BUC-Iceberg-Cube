@@ -13,7 +13,14 @@ def new_input(dataset_list, d, dimension_attribute_name):
     return res
 
 
-min_sup = 93
+def validate_input():
+    try:
+        user = int(input("Input minimum_support: "))
+    except ValueError:
+        print("Bad Input")
+    return user
+
+
 records = []
 headers = []
 with open('Product_Sales_Data_Set.csv', newline='', encoding='utf-8-sig') as csvfile:
@@ -31,6 +38,8 @@ dimensions = [items, locations, years]
 
 dataCount = [[None], [None], [None]]
 
+f = open('Iceberg-Cube-Results.txt', 'w')
+
 
 def BUC(input, d):
     x = input
@@ -43,14 +52,15 @@ def BUC(input, d):
         for i in range(C):
             c = tc[d][i]
             if c >= min_sup:
-                print('\t\t' * 2*d, end="")
-                print(dimensions[d][i] + '\t' + str(c))
+                f.write('\t\t' * 2 * d)
+                f.write(dimensions[d][i] + '\t' + str(c) + '\n')
                 BUC(new_input(input, d, dimensions[d][i]), d + 1)
             else:
-                print('\t\t' * 2*d, end="")
-                print(dimensions[d][i] + '\t' + '*')
+                f.write('\t\t' * 2 * d)
+                f.write(dimensions[d][i] + '\t' + '*' + '\n')
                 BUC(new_input(input, d, dimensions[d][i]), d + 1)
         d = d + 1
 
 
+min_sup = validate_input()
 BUC(records, 0)
